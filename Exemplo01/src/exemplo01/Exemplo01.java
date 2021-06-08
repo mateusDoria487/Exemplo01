@@ -14,6 +14,9 @@ public class Exemplo01 {
         System.out.println("Jonathas David");
         System.out.println("kkkkkkk");
         int b = 22312;
+        
+        int numero = RetornaNumeroInteiro.retornaInt();
+        System.out.println(numero);
     }
     
 }
